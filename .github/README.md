@@ -2,7 +2,7 @@
   <img width="200" src="./header.svg"/>
 </p>
 
-<h2 align="center" padding="100">Delta Icons for Android</h2>
+<h2 align="center" padding="100">Delta Bright Icons for Android</h2>
 
 <p align="center">
   <a href="../../../releases/latest">
@@ -22,21 +22,10 @@
   </a>
 </p>
 
-## Contributing
+## Note
 
-Please refer to **[contribution guidelines](./CONTRIBUTING.md)**.
+This build is made for personal use.
 
 
-## Discord
-
-✋ The server is **not** intended for requests!
-
-👋 If you need help contributing or just want to chat with other contributors feel free to **[join us](https://discord.gg/F9RFqHN)**!
-
-<p align="center">
-  <a href="https://discord.gg/F9RFqHN">
-    <img src="https://img.shields.io/discord/743783969216135198?labelColor=56595b&color=ababff&logo=discord&logoColor=ffffff&label=discord&style=for-the-badge"/>
-  </a>
-</p>
 
 
