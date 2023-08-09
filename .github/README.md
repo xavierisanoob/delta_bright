@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="./headeer.svg"/>
+  <img width="200" src="./headerplus.svg"/>
 </p>
 
 <h2 align="center" padding="100">Delta Bright Icons for Android</h2>
