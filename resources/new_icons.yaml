@@ -9,22 +9,35 @@
 # new_icon_2_alt_1: {}
 #
 
-infinity_for_lemmy:
-  - eu.toldi.infinityforlemmy/eu.toldi.infinityforlemmy.activities.MainActivity
+termux:
+  - com.termux.tasker/com.termux.tasker.activities.TermuxTaskerActivity
 
-sync_for_lemmy:
+winamp:
+  - com.winamp.release/com.winamp.winamp.activities.MainActivity
+
+winamp_alt_1: {}
+
+vk_x:
+  - ua.itaysonlab.vkx/ua.itaysonlab.vkx.VkxIcon
+
+wolfram_alpha:
+  - com.wolfram.android.alpha/com.wolfram.android.alphalibrary.activity.WolframAlphaActivity
+  - com.wolfram.android.alphapro/com.wolfram.android.alphapro.activity.ProUserOnBoardingActivity
+
+day_one:
+  - com.dayoneapp.dayone/com.dayoneapp.dayone.main.SplashActivity
+
+flow_launcher:
+  - com.app.flowlauncher/com.app.flowlauncher.homeScreen.HomeActivity
+
+sync:
   - io.syncapps.lemmy_sync/io.syncapps.lemmy_sync.ui.activities.HomeActivity.Default
 
-upnext_gpt:
-  - com.dokar.upnextgpt/com.dokar.upnextgpt.MainActivity
+cheburnet:
+  - com.cheburnet.mobile/com.cheburnet.mobile.MainActivity
 
-shortwave:
-  - com.shortwave.android/shortwave.android.ui.MainActivity
+townscaper:
+  - com.OskarStalberg.Townscaper/com.unity3d.player.UnityPlayerActivity
 
-flow:
-  - me.rutrackersearch.app/me.rutrackersearch.app.MainActivity
-
-flow_alt_1: {}
-
-hd_videobox:
-  - dkc.video.hdbox/com.dkc.fs.ui.activities.SplashActivity
+daikomu:
+  - com.daimokupro.DAIMOKUPRO/com.drec.daimokupro.ui.activity.MainActivity

@@ -1,24 +1,12 @@
 -------------------------------------------------------
-3118 Requested Apps Pending (Updated 5 August 2023)
+3185 Requested Apps Pending (Updated 19 August 2023)
 -------------------------------------------------------
 
 NIKKE
 com.proximabeta.nikke/com.shiftup.nk.MainActivity
 https://play.google.com/store/apps/details?id=com.proximabeta.nikke
-Requested 14 times
-Last requested 1690409639.0
-	
-Bluesky
-xyz.blueskyweb.app/xyz.blueskyweb.app.MainActivity
-https://play.google.com/store/apps/details?id=xyz.blueskyweb.app
-Requested 13 times
-Last requested 1691142816.0
-	
-ChatGPT
-com.openai.chatgpt/com.openai.chatgpt.MainActivity
-https://play.google.com/store/apps/details?id=com.openai.chatgpt
-Requested 12 times
-Last requested 1691114293.0
+Requested 15 times
+Last requested 1692200992.0
 	
 VampireSurvivors
 com.poncle.vampiresurvivors/com.unity3d.player.UnityPlayerActivity
@@ -32,29 +20,29 @@ https://play.google.com/store/apps/details?id=com.appsomniacs.da2
 Requested 6 times
 Last requested 1680100827.0
 	
-Cafe
-com.samsung.android.keyscafe/com.samsung.android.keyscafe.main.ui.KeysCafeSplashActivity
-https://play.google.com/store/apps/details?id=com.samsung.android.keyscafe
-Requested 6 times
-Last requested 1685569311.0
-	
 Payoneer
 com.payoneer.android/com.payoneer.SplashActivity
 https://play.google.com/store/apps/details?id=com.payoneer.android
 Requested 6 times
 Last requested 1689252574.0
 	
+PH
+ph.com.globe.gomo/ph.com.globe.gomo.MainActivity
+https://play.google.com/store/apps/details?id=ph.com.globe.gomo
+Requested 6 times
+Last requested 1692087313.0
+	
+ICSx⁵
+at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity
+https://play.google.com/store/apps/details?id=at.bitfire.icsdroid
+Requested 6 times
+Last requested 1692132543.0
+	
 Mobile
 com.garena.game.kgvn/com.garena.game.kgtw.SGameActivity
 https://play.google.com/store/apps/details?id=com.garena.game.kgvn
 Requested 5 times
 Last requested 1678902371.0
-	
-ZaloPay
-vn.com.vng.zalopay/vn.com.vng.zalopay.ui.activity.SplashScreenActivity
-https://play.google.com/store/apps/details?id=vn.com.vng.zalopay
-Requested 5 times
-Last requested 1680433682.0
 	
 OSM
 com.gamebasics.osm/com.gamebasics.osm.activity.SplashActivity
@@ -80,12 +68,6 @@ https://play.google.com/store/apps/details?id=net.bat.store
 Requested 5 times
 Last requested 1687334964.0
 	
-PH
-ph.com.globe.gomo/ph.com.globe.gomo.MainActivity
-https://play.google.com/store/apps/details?id=ph.com.globe.gomo
-Requested 5 times
-Last requested 1688455138.0
-	
 Dawn
 com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp/com.unity3d.player.UnityPlayerActivity
 https://play.google.com/store/apps/details?id=com.Flanne.MinutesTillDawn.roguelike.shooting.fr.gp
@@ -97,12 +79,6 @@ com.you.browser/com.you.browser.App
 https://play.google.com/store/apps/details?id=com.you.browser
 Requested 5 times
 Last requested 1689434300.0
-	
-ICSx⁵
-at.bitfire.icsdroid/at.bitfire.icsdroid.ui.CalendarListActivity
-https://play.google.com/store/apps/details?id=at.bitfire.icsdroid
-Requested 5 times
-Last requested 1688661485.0
 	
 Akulaku
 io.silvrr.installment/io.silvrr.installment.module.startup.SplashActivity
@@ -120,13 +96,37 @@ Store
 com.oplus.themestore/com.nearme.themespace.activities.ThemeActivity
 https://play.google.com/store/apps/details?id=com.oplus.themestore
 Requested 5 times
-Last requested 1691268512.0
+Last requested 1691936011.0
 	
-Kick
-com.kick.mobile/com.kick.mobile.MainActivity
-https://play.google.com/store/apps/details?id=com.kick.mobile
+Bleach
+com.klab.bleach/jp.klab.bleach.plugin.BleachActivity
+https://play.google.com/store/apps/details?id=com.klab.bleach
 Requested 5 times
-Last requested 1690738608.0
+Last requested 1691353288.0
+	
+Life
+com.lockwoodpublishing.avakinlife/com.lockwoodpublishing.game.LockwoodLauncherActivity
+https://play.google.com/store/apps/details?id=com.lockwoodpublishing.avakinlife
+Requested 5 times
+Last requested 1691941482.0
+	
+Centre
+com.xiaomi.glgm/com.xiaomi.glgm.home.ui.SplashActivity
+https://play.google.com/store/apps/details?id=com.xiaomi.glgm
+Requested 5 times
+Last requested 1692276484.0
+	
+Flexcil
+com.flexcil.flexcilnote/com.flexcil.flexcilnote.MainActivity
+https://play.google.com/store/apps/details?id=com.flexcil.flexcilnote
+Requested 5 times
+Last requested 1692486268.0
+	
+Wonderland
+com.samsung.android.wonderland.wallpaper/com.samsung.android.wonderland.wallpaper.settings.StartupActivity
+https://play.google.com/store/apps/details?id=com.samsung.android.wonderland.wallpaper
+Requested 5 times
+Last requested 1692373307.0
 	
 Relax
 com.coloros.relax/com.coloros.relax.ui.MainActivity
@@ -145,24 +145,6 @@ com.activision.callofduty.warzone/com.activision.game.MainActivity
 https://play.google.com/store/apps/details?id=com.activision.callofduty.warzone
 Requested 4 times
 Last requested 1681017866.0
-	
-Racer
-com.StudioFurukawa.PixelCarRacer/com.StudioFurukawa.PixelCarRacer.RunnerActivity
-https://play.google.com/store/apps/details?id=com.StudioFurukawa.PixelCarRacer
-Requested 4 times
-Last requested 1683039030.0
-	
-Life
-com.lockwoodpublishing.avakinlife/com.lockwoodpublishing.game.LockwoodLauncherActivity
-https://play.google.com/store/apps/details?id=com.lockwoodpublishing.avakinlife
-Requested 4 times
-Last requested 1683311814.0
-	
-Magister
-nl.schoolmaster.magister.mobile/crc64bb28a63fa9856b6c.SplashActivity
-https://play.google.com/store/apps/details?id=nl.schoolmaster.magister.mobile
-Requested 4 times
-Last requested 1683754203.0
 	
 ZLib
 com.positron_it.zlib/com.positron_it.zlib.ui.splash.SplashActivity
@@ -194,41 +176,11 @@ https://play.google.com/store/apps/details?id=com.superb.rhv
 Requested 4 times
 Last requested 1685305606.0
 	
-Rumble
-com.rumble.battles/com.rumble.battles.landing.LandingActivity
-https://play.google.com/store/apps/details?id=com.rumble.battles
-Requested 4 times
-Last requested 1685637642.0
-	
-PostNL
-nl.tpp.mobile.android/nl.postnl.app.splash.SplashActivity
-https://play.google.com/store/apps/details?id=nl.tpp.mobile.android
-Requested 4 times
-Last requested 1685747169.0
-	
-Bleach
-com.klab.bleach/jp.klab.bleach.plugin.BleachActivity
-https://play.google.com/store/apps/details?id=com.klab.bleach
-Requested 4 times
-Last requested 1686382480.0
-	
-DStv
-com.dstvmobile.android/com.dstv.now.android.ui.splash.SplashActivity
-https://play.google.com/store/apps/details?id=com.dstvmobile.android
-Requested 4 times
-Last requested 1686488173.0
-	
 SUSH
 app.grotinou.sushi/app.grotinou.sushi.MainActivity
 https://play.google.com/store/apps/details?id=app.grotinou.sushi
 Requested 4 times
 Last requested 1686831566.0
-	
-Centre
-com.xiaomi.glgm/com.xiaomi.glgm.home.ui.SplashActivity
-https://play.google.com/store/apps/details?id=com.xiaomi.glgm
-Requested 4 times
-Last requested 1687888152.0
 	
 com
 .canal.android.canal/com.canal.ui.mobile.MainActivity
@@ -302,35 +254,11 @@ https://play.google.com/store/apps/details?id=jp.naver.linecamera.android
 Requested 4 times
 Last requested 1689723894.0
 	
-Skroutz
-com.niobiumlabs.android.apps.skroutz/gr.skroutz.ui.startup.StartupActivity
-https://play.google.com/store/apps/details?id=com.niobiumlabs.android.apps.skroutz
-Requested 4 times
-Last requested 1689245777.0
-	
 BloodStrike
 com.netease.newspike/com.netease.game.MessiahNativeActivity
 https://play.google.com/store/apps/details?id=com.netease.newspike
 Requested 4 times
 Last requested 1689765563.0
-	
-io
-territorial.io/com.example.territorialio.MainActivity
-https://play.google.com/store/apps/details?id=territorial.io
-Requested 4 times
-Last requested 1690193696.0
-	
-AI
-ai.character.app/ai.character.app.MainActivity
-https://play.google.com/store/apps/details?id=ai.character.app
-Requested 4 times
-Last requested 1690075025.0
-	
-Brevent
-me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity
-https://play.google.com/store/apps/details?id=me.piebridge.brevent
-Requested 4 times
-Last requested 1689853798.0
 	
 audiobookshelf
 com.audiobookshelf.app/com.audiobookshelf.app.MainActivity
@@ -355,6 +283,60 @@ ro.bcr.georgego/at.beeone.george.SplashScreenActivity
 https://play.google.com/store/apps/details?id=ro.bcr.georgego
 Requested 4 times
 Last requested 1690980861.0
+	
+Cleaner
+com.github.bmx666.appcachecleaner/com.github.bmx666.appcachecleaner.ui.activity.AppCacheCleanerActivity
+https://play.google.com/store/apps/details?id=com.github.bmx666.appcachecleaner
+Requested 4 times
+Last requested 1691572971.0
+	
+Otherworld Legends
+com.chillyroom.zhmr.gp/com.unity3d.player.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp
+Requested 4 times
+Last requested 1691502940.0
+	
+Katana
+com.ucdevs.jcross/com.ucdevs.jcross.MainActivity
+https://play.google.com/store/apps/details?id=com.ucdevs.jcross
+Requested 4 times
+Last requested 1691777591.0
+	
+Omnivore
+app.omnivore.omnivore/app.omnivore.omnivore.MainActivity
+https://play.google.com/store/apps/details?id=app.omnivore.omnivore
+Requested 4 times
+Last requested 1691837354.0
+	
+Skiff Mail
+com.skemailmobileapp/com.skemailmobileapp.MainActivity
+https://play.google.com/store/apps/details?id=com.skemailmobileapp
+Requested 4 times
+Last requested 1691558795.0
+	
+Mini
+com.supercell.clashmini/com.supercell.clashmini.GameApp
+https://play.google.com/store/apps/details?id=com.supercell.clashmini
+Requested 4 times
+Last requested 1691579106.0
+	
+Breakout
+com.proximabeta.mf.uamo/com.epicgames.ue4.GameActivity
+https://play.google.com/store/apps/details?id=com.proximabeta.mf.uamo
+Requested 4 times
+Last requested 1691959956.0
+	
+BremboGaming
+com.maleo.bussimulatorid/com.unity3d.player.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.maleo.bussimulatorid
+Requested 4 times
+Last requested 1692045986.0
+	
+Mail
+com.royalmail.app.droid/crc64f7852c3a8749d057.SplashActivity
+https://play.google.com/store/apps/details?id=com.royalmail.app.droid
+Requested 4 times
+Last requested 1692459400.0
 	
 Themis
 com.miHoYo.tot.glb/com.miHoYo.wd.MainActivity
@@ -536,12 +518,6 @@ https://play.google.com/store/apps/details?id=org.hiveinc.TheHive.android
 Requested 3 times
 Last requested 1682258866.0
 	
-Breakout
-com.proximabeta.mf.uamo/com.epicgames.ue4.GameActivity
-https://play.google.com/store/apps/details?id=com.proximabeta.mf.uamo
-Requested 3 times
-Last requested 1682110662.0
-	
 ChMate
 jp.co.airfront.android.a2chMate/jp.syoboi.a2chMate.activity.HomeActivity
 https://play.google.com/store/apps/details?id=jp.co.airfront.android.a2chMate
@@ -614,12 +590,6 @@ https://play.google.com/store/apps/details?id=.g19mobile.gameboosterplus
 Requested 3 times
 Last requested 1685450199.0
 	
-Cleaner
-com.github.bmx666.appcachecleaner/com.github.bmx666.appcachecleaner.ui.activity.AppCacheCleanerActivity
-https://play.google.com/store/apps/details?id=com.github.bmx666.appcachecleaner
-Requested 3 times
-Last requested 1685985572.0
-	
 Racer
 com.netease.racerna/com.netease.game.MessiahNativeActivity
 https://play.google.com/store/apps/details?id=com.netease.racerna
@@ -667,24 +637,6 @@ com.nautilus.realcricket/com.nautilus.realcricket.UnityPlayerActivityCustom
 https://play.google.com/store/apps/details?id=com.nautilus.realcricket
 Requested 3 times
 Last requested 1686593512.0
-	
-BremboGaming
-com.maleo.bussimulatorid/com.unity3d.player.UnityPlayerActivity
-https://play.google.com/store/apps/details?id=com.maleo.bussimulatorid
-Requested 3 times
-Last requested 1686587237.0
-	
-Otherworld Legends
-com.chillyroom.zhmr.gp/com.unity3d.player.UnityPlayerActivity
-https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp
-Requested 3 times
-Last requested 1686812521.0
-	
-EE
-uk.co.ee.myee/com.example.myee_app.MainActivity
-https://play.google.com/store/apps/details?id=uk.co.ee.myee
-Requested 3 times
-Last requested 1686990773.0
 	
 Driving
 com.ansangha.drdriving/com.ansangha.drdriving.DrDrivingActivity
@@ -776,12 +728,6 @@ https://play.google.com/store/apps/details?id=cc.peacedeath.peacedeath
 Requested 3 times
 Last requested 1688996913.0
 	
-Katana
-com.ucdevs.jcross/com.ucdevs.jcross.MainActivity
-https://play.google.com/store/apps/details?id=com.ucdevs.jcross
-Requested 3 times
-Last requested 1689245338.0
-	
 Jelly
 com.king.candycrushjellysaga/com.king.candycrushjellysaga.StritzActivity
 https://play.google.com/store/apps/details?id=com.king.candycrushjellysaga
@@ -793,12 +739,6 @@ com.mmm.trebelmusic/com.mmm.trebelmusic.ui.activity.LauncherActivity
 https://play.google.com/store/apps/details?id=com.mmm.trebelmusic
 Requested 3 times
 Last requested 1689533884.0
-	
-Flexcil
-com.flexcil.flexcilnote/com.flexcil.flexcilnote.MainActivity
-https://play.google.com/store/apps/details?id=com.flexcil.flexcilnote
-Requested 3 times
-Last requested 1688985959.0
 	
 Nightbringer
 com.nttsolmare.game.android.obeyme2/com.now.MainActivity
@@ -817,12 +757,6 @@ com.moimob.drinkable/com.moimob.drinkable.MainActivity
 https://play.google.com/store/apps/details?id=com.moimob.drinkable
 Requested 3 times
 Last requested 1688962438.0
-	
-Omnivore
-app.omnivore.omnivore/app.omnivore.omnivore.MainActivity
-https://play.google.com/store/apps/details?id=app.omnivore.omnivore
-Requested 3 times
-Last requested 1688907037.0
 	
 Key
 com.dessalines.thumbkey/com.dessalines.thumbkey.MainActivity
@@ -847,18 +781,6 @@ com.huawei.maps.app/com.huawei.maps.app.petalmaps.splash.SplashActivity
 https://play.google.com/store/apps/details?id=com.huawei.maps.app
 Requested 3 times
 Last requested 1689285758.0
-	
-Skiff Mail
-com.skemailmobileapp/com.skemailmobileapp.MainActivity
-https://play.google.com/store/apps/details?id=com.skemailmobileapp
-Requested 3 times
-Last requested 1689216800.0
-	
-Wonderland
-com.samsung.android.wonderland.wallpaper/com.samsung.android.wonderland.wallpaper.settings.StartupActivity
-https://play.google.com/store/apps/details?id=com.samsung.android.wonderland.wallpaper
-Requested 3 times
-Last requested 1689255880.0
 	
 Store
 com.thesouledstore/com.thesouledstore.SplashActivity
@@ -938,12 +860,6 @@ https://play.google.com/store/apps/details?id=yogaworkout.dailyyoga.go.weightlos
 Requested 3 times
 Last requested 1691144142.0
 	
-Mini
-com.supercell.clashmini/com.supercell.clashmini.GameApp
-https://play.google.com/store/apps/details?id=com.supercell.clashmini
-Requested 3 times
-Last requested 1691189953.0
-	
 MyBL
 com.arena.banglalinkmela.app/com.arena.banglalinkmela.app.ui.splash.SplashActivity
 https://play.google.com/store/apps/details?id=com.arena.banglalinkmela.app
@@ -986,6 +902,66 @@ https://play.google.com/store/apps/details?id=com.asobimo.toramonline
 Requested 3 times
 Last requested 1690945529.0
 	
+Out
+com.mind.quiz.brain.out/com.mind.quiz.brain.out.MainActivity
+https://play.google.com/store/apps/details?id=com.mind.quiz.brain.out
+Requested 3 times
+Last requested 1691601047.0
+	
+Selfcare
+com.digital.bsnl.selfcare/com.selfcare.mybsnl.activities.SplashActivity
+https://play.google.com/store/apps/details?id=com.digital.bsnl.selfcare
+Requested 3 times
+Last requested 1691688207.0
+	
+Message(SMS)
+com.kddi.android.cmail/com.kddi.android.cmail.ui.list.ThreadListActivity
+https://play.google.com/store/apps/details?id=com.kddi.android.cmail
+Requested 3 times
+Last requested 1692049631.0
+	
+Arc
+com.quadren.arc/com.quadren.arc.MainActivity
+https://play.google.com/store/apps/details?id=com.quadren.arc
+Requested 3 times
+Last requested 1692354095.0
+	
+Premium
+com.brotato.shooting.survivors.games.paid.android/com.unity3d.player.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.brotato.shooting.survivors.games.paid.android
+Requested 3 times
+Last requested 1692044059.0
+	
+Strikers
+com.odysseyinteractive.omegastrikers/com.epicgames.unreal.SplashActivity
+https://play.google.com/store/apps/details?id=com.odysseyinteractive.omegastrikers
+Requested 3 times
+Last requested 1692292619.0
+	
+AccA
+mattecarra.accapp/mattecarra.accapp.activities.MainActivity
+https://play.google.com/store/apps/details?id=mattecarra.accapp
+Requested 3 times
+Last requested 1692284749.0
+	
+モンスト
+jp.co.mixi.monsterstrike/jp.co.mixi.monsterstrike.SplashActivity10140001
+https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrike
+Requested 3 times
+Last requested 1692084541.0
+	
+Composer
+com.nothing.glyph.composer/com.nothing.glyph.composer.ui.MainActivity
+https://play.google.com/store/apps/details?id=com.nothing.glyph.composer
+Requested 3 times
+Last requested 1691919657.0
+	
+PRIDE
+com.neowiz.game.idolypride.en/com.google.firebase.MessagingUnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.neowiz.game.idolypride.en
+Requested 3 times
+Last requested 1692235846.0
+	
 Hunter
 com.kakarod.bighunter/org.cocos2dx.cpp.AppActivity
 https://play.google.com/store/apps/details?id=com.kakarod.bighunter
@@ -1009,18 +985,6 @@ com.vectorunit.purple.googleplay/com.vectorunit.purple.googleplay.MainActivity
 https://play.google.com/store/apps/details?id=com.vectorunit.purple.googleplay
 Requested 2 times
 Last requested 1663372967.0
-	
-Pay
-com.sbi.upi/com.sbi.upi.customerMode.modules.initial.splash.SplashActivity
-https://play.google.com/store/apps/details?id=com.sbi.upi
-Requested 2 times
-Last requested 1663178846.0
-	
-Confluence
-com.atlassian.android.confluence.core/com.atlassian.android.confluence.core.ui.launcher.LauncherActivity
-https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core
-Requested 2 times
-Last requested 1662866959.0
 	
 Aspiration
 com.aspiration.app/com.aspiration.native_application.clean_arch.presentation.auth.welcome.WelcomeScreen
@@ -1070,29 +1034,11 @@ https://play.google.com/store/apps/details?id=com.andromo.dev331745.app314871
 Requested 2 times
 Last requested 1665478359.0
 	
-MarinDeck
-online.hisubway.marindeck/io.kodular.shenyusoftware.MarinDeck.Screen1
-https://play.google.com/store/apps/details?id=online.hisubway.marindeck
-Requested 2 times
-Last requested 1664738641.0
-	
-Pay
-com.mada.madapay/com.emcrey.app.activities.SupportActivity
-https://play.google.com/store/apps/details?id=com.mada.madapay
-Requested 2 times
-Last requested 1668266196.0
-	
 More
 com.shunan.readmore/com.shunan.readmore.home.splash.SplashActivity
 https://play.google.com/store/apps/details?id=com.shunan.readmore
 Requested 2 times
 Last requested 1668044141.0
-	
-Message(SMS)
-com.kddi.android.cmail/com.kddi.android.cmail.ui.list.ThreadListActivity
-https://play.google.com/store/apps/details?id=com.kddi.android.cmail
-Requested 2 times
-Last requested 1664454651.0
 	
 Sirin
 com.sirin.android/crc64dc61f99c5aee42fe.MainActivity
@@ -1117,12 +1063,6 @@ ar.com.bancor.bancon/ar.com.bancor.bancon.MainActivity
 https://play.google.com/store/apps/details?id=ar.com.bancor.bancon
 Requested 2 times
 Last requested 1668927091.0
-	
-Collective
-fr.vestiairecollective/fr.vestiairecollective.legacy.activity.SplashActivity
-https://play.google.com/store/apps/details?id=fr.vestiairecollective
-Requested 2 times
-Last requested 1665502045.0
 	
 MDA
 il.org.mda.mymada/il.org.mda.mymada.activities.RegistrationActivity
@@ -1573,12 +1513,6 @@ br.com.cittabus/br.com.cittati.cittamobi_flutter.MainActivity
 https://play.google.com/store/apps/details?id=br.com.cittabus
 Requested 2 times
 Last requested 1671030857.0
-	
-Keepa
-com.keepa.mobile/com.tns.NativeScriptActivity
-https://play.google.com/store/apps/details?id=com.keepa.mobile
-Requested 2 times
-Last requested 1670274922.0
 	
 Creator
 pl.planmieszkania.android/com.ml.planik.android.StartActivity
@@ -2054,12 +1988,6 @@ https://play.google.com/store/apps/details?id=de.sky.online
 Requested 2 times
 Last requested 1682633708.0
 	
-Out
-com.mind.quiz.brain.out/com.mind.quiz.brain.out.MainActivity
-https://play.google.com/store/apps/details?id=com.mind.quiz.brain.out
-Requested 2 times
-Last requested 1682786298.0
-	
 Blast
 com.nomonkeys.ballblast/com.unity3d.player.UnityPlayerActivity
 https://play.google.com/store/apps/details?id=com.nomonkeys.ballblast
@@ -2126,12 +2054,6 @@ https://play.google.com/store/apps/details?id=com.bolt.deliveryclient
 Requested 2 times
 Last requested 1683159577.0
 	
-Arc
-com.quadren.arc/com.quadren.arc.MainActivity
-https://play.google.com/store/apps/details?id=com.quadren.arc
-Requested 2 times
-Last requested 1683218465.0
-	
 Force
 com.foxnextgames.m3/com.explodingbarrel.Activity
 https://play.google.com/store/apps/details?id=com.foxnextgames.m3
@@ -2162,23 +2084,11 @@ https://play.google.com/store/apps/details?id=com.jamworks.bxactions
 Requested 2 times
 Last requested 1682848350.0
 	
-Premium
-com.brotato.shooting.survivors.games.paid.android/com.unity3d.player.UnityPlayerActivity
-https://play.google.com/store/apps/details?id=com.brotato.shooting.survivors.games.paid.android
-Requested 2 times
-Last requested 1682925104.0
-	
 2
 com.codebrewgames.pocketcity2/com.unity3d.player.UnityPlayerActivity
 https://play.google.com/store/apps/details?id=com.codebrewgames.pocketcity2
 Requested 2 times
 Last requested 1682901560.0
-	
-Strikers
-com.odysseyinteractive.omegastrikers/com.epicgames.unreal.SplashActivity
-https://play.google.com/store/apps/details?id=com.odysseyinteractive.omegastrikers
-Requested 2 times
-Last requested 1683425929.0
 	
 Pro
 com.yuanwofei.cardemulator.pro/com.yuanwofei.cardemulator.MainActivity
@@ -2486,12 +2396,6 @@ https://play.google.com/store/apps/details?id=com.thebluealliance.androidclient
 Requested 2 times
 Last requested 1686548616.0
 	
-AccA
-mattecarra.accapp/mattecarra.accapp.activities.MainActivity
-https://play.google.com/store/apps/details?id=mattecarra.accapp
-Requested 2 times
-Last requested 1686269949.0
-	
 Peridot
 com.nianticlabs.peridot/com.nianticlabs.peridot.UnityMainActivity
 https://play.google.com/store/apps/details?id=com.nianticlabs.peridot
@@ -2702,12 +2606,6 @@ https://play.google.com/store/apps/details?id=com.bunq.android
 Requested 2 times
 Last requested 1688379172.0
 	
-VideoBox
-dkc.video.hdbox/com.dkc.fs.ui.activities.SplashActivity
-https://play.google.com/store/apps/details?id=dkc.video.hdbox
-Requested 2 times
-Last requested 1688247177.0
-	
 Speedway
 com.speedway.mobile/com.speedway.mobile.base.SplashActivity
 https://play.google.com/store/apps/details?id=com.speedway.mobile
@@ -2798,18 +2696,6 @@ https://play.google.com/store/apps/details?id=com.hyperbeard.odyssey
 Requested 2 times
 Last requested 1688523345.0
 	
-コミックDAYS
-jp.co.kodansha.comicdays/com.goodpatch.comicdays.presentation.launch.view.LaunchActivity
-https://play.google.com/store/apps/details?id=jp.co.kodansha.comicdays
-Requested 2 times
-Last requested 1688799565.0
-	
-Mail
-com.royalmail.app.droid/crc64f7852c3a8749d057.SplashActivity
-https://play.google.com/store/apps/details?id=com.royalmail.app.droid
-Requested 2 times
-Last requested 1688674137.0
-	
 Weatherproof
 com.changemystyle.weatherproof/com.changemystyle.gentlewakeup.WakeupShow.WakeupShow
 https://play.google.com/store/apps/details?id=com.changemystyle.weatherproof
@@ -2827,12 +2713,6 @@ no.ruter.reise/no.ruter.app.feature.startup.StartupActivity
 https://play.google.com/store/apps/details?id=no.ruter.reise
 Requested 2 times
 Last requested 1688430940.0
-	
-Sync
-com.sync.mobileapp/com.sync.mobileapp.activities.SplashActivity
-https://play.google.com/store/apps/details?id=com.sync.mobileapp
-Requested 2 times
-Last requested 1688798686.0
 	
 ShareX
 com.akansh.fileserversuit/com.akansh.fileserversuit.Splash
@@ -2876,12 +2756,6 @@ https://play.google.com/store/apps/details?id=com.atomicadd.tinylauncher
 Requested 2 times
 Last requested 1688831362.0
 	
-モンスト
-jp.co.mixi.monsterstrike/jp.co.mixi.monsterstrike.SplashActivity10140001
-https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrike
-Requested 2 times
-Last requested 1690986046.0
-	
 Wallpapers
 com.ksmobile.launcher.theme.neonlife/com.nick.hdwallpapers.activity.ConsentActivity
 https://play.google.com/store/apps/details?id=com.ksmobile.launcher.theme.neonlife
@@ -2923,12 +2797,6 @@ com.meb.vbsmobil/tr.gov.meb.eokul_vbs.MainActivity
 https://play.google.com/store/apps/details?id=com.meb.vbsmobil
 Requested 2 times
 Last requested 1689533294.0
-	
-Selfcare
-com.digital.bsnl.selfcare/com.selfcare.mybsnl.activities.SplashActivity
-https://play.google.com/store/apps/details?id=com.digital.bsnl.selfcare
-Requested 2 times
-Last requested 1688921198.0
 	
 org
 .gateshipone.malp/org.gateshipone.malp.application.activities.MainActivity
@@ -3182,12 +3050,6 @@ https://play.google.com/store/apps/details?id=com.bigheadtechies.diary
 Requested 2 times
 Last requested 1690613528.0
 	
-Composer
-com.nothing.glyph.composer/com.nothing.glyph.composer.ui.MainActivity
-https://play.google.com/store/apps/details?id=com.nothing.glyph.composer
-Requested 2 times
-Last requested 1690411911.0
-	
 Undawn
 com.garena.game.lmjx/com.garena.game.lmjx.SplashActivity
 https://play.google.com/store/apps/details?id=com.garena.game.lmjx
@@ -3277,6 +3139,156 @@ app.swipefy.mobile/app.swipefy.mobile.MainActivity
 https://play.google.com/store/apps/details?id=app.swipefy.mobile
 Requested 2 times
 Last requested 1691119215.0
+	
+24pay
+com.twentyfourpay/com.twentyfourpay.screens.splashScreen.SplashScreenActivity
+https://play.google.com/store/apps/details?id=com.twentyfourpay
+Requested 2 times
+Last requested 1691371158.0
+	
+Portal
+com.microsoft.windowsintune.companyportal/com.microsoft.windowsintune.companyportal.views.SplashActivity
+https://play.google.com/store/apps/details?id=com.microsoft.windowsintune.companyportal
+Requested 2 times
+Last requested 1691607729.0
+	
+Shop
+pro.deckshop.app/pro.deckshop.app.MainActivity
+https://play.google.com/store/apps/details?id=pro.deckshop.app
+Requested 2 times
+Last requested 1691416575.0
+	
+NTES
+cris.icms.ntes/cris.icms.ntes.LaunchApp
+https://play.google.com/store/apps/details?id=cris.icms.ntes
+Requested 2 times
+Last requested 1691697444.0
+	
+Story
+com.MartianRexInc.StoneStory/com.unity3d.player.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.MartianRexInc.StoneStory
+Requested 2 times
+Last requested 1691782463.0
+	
+Fpay
+com.fif.fpay.android/com.fif.fpay.android.presentation.MainActivity
+https://play.google.com/store/apps/details?id=com.fif.fpay.android
+Requested 2 times
+Last requested 1691587495.0
+	
+Peglin
+com.RedNexusGamesInc.Peglin/com.unity3d.player.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.RedNexusGamesInc.Peglin
+Requested 2 times
+Last requested 1691533607.0
+	
+DevInfo
+com.liuzh.deviceinfo/com.liuzh.deviceinfo.splash.SplashActivity
+https://play.google.com/store/apps/details?id=com.liuzh.deviceinfo
+Requested 2 times
+Last requested 1691504332.0
+	
+TrainingPeaks
+com.peaksware.trainingpeaks/com.peaksware.trainingpeaks.onboarding.OnBoardingActivity
+https://play.google.com/store/apps/details?id=com.peaksware.trainingpeaks
+Requested 2 times
+Last requested 1691571012.0
+	
+Bonza
+air.au.com.minimega.bonza/air.au.com.minimega.bonza.AIRAppEntry
+https://play.google.com/store/apps/details?id=air.au.com.minimega.bonza
+Requested 2 times
+Last requested 1691790140.0
+	
+Free
+com.natewren.linesfree/com.natewren.dashboard.SplashScreen
+https://play.google.com/store/apps/details?id=com.natewren.linesfree
+Requested 2 times
+Last requested 1692155209.0
+	
+Netmeds
+com.NetmedsMarketplace.Netmeds/com.netmedsmarketplace.netmeds.AppUriSchemeHandler
+https://play.google.com/store/apps/details?id=com.NetmedsMarketplace.Netmeds
+Requested 2 times
+Last requested 1691943136.0
+	
+RISK
+com.hasbro.riskbigscreen/com.google.firebase.MessagingUnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.hasbro.riskbigscreen
+Requested 2 times
+Last requested 1691892593.0
+	
+Cleaner
+com.iclean.master.boost/com.iclean.master.boost.module.setting.SplashActivity
+https://play.google.com/store/apps/details?id=com.iclean.master.boost
+Requested 2 times
+Last requested 1691882573.0
+	
+Pro
+name.pilgr.appdialer.pro/name.pilgr.appdialer.AppDialer
+https://play.google.com/store/apps/details?id=name.pilgr.appdialer.pro
+Requested 2 times
+Last requested 1691953791.0
+	
+Heroes
+com.gamedevltd.wwh/com.google.firebase.MessagingUnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.gamedevltd.wwh
+Requested 2 times
+Last requested 1692174530.0
+	
+Stargon
+net.onecook.browser/net.onecook.browser.MainActivity
+https://play.google.com/store/apps/details?id=net.onecook.browser
+Requested 2 times
+Last requested 1692447456.0
+	
+Live
+com.pokemon.pokemontcgl/com.pokemon.pokemontcgl.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.pokemon.pokemontcgl
+Requested 2 times
+Last requested 1692234633.0
+	
+VNeID
+com.vnid/com.vnid.MainActivity
+https://play.google.com/store/apps/details?id=com.vnid
+Requested 2 times
+Last requested 1692157678.0
+	
+HOME
+com.eco.global.app/com.eco.main.activity.EcoLauncherActivity
+https://play.google.com/store/apps/details?id=com.eco.global.app
+Requested 2 times
+Last requested 1688579128.0
+	
+BPI
+com.bpi.ng.app/com.bpi.ng.app.presentation.views.MainActivity
+https://play.google.com/store/apps/details?id=com.bpi.ng.app
+Requested 2 times
+Last requested 1692223912.0
+	
+NETFLIX
+com.netflix.NGP.BloonsTDSix/com.unity3d.player.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.netflix.NGP.BloonsTDSix
+Requested 2 times
+Last requested 1691892018.0
+	
+Postparty
+com.lifeonair.postparty/com.lifeonair.postparty.root.MainActivity
+https://play.google.com/store/apps/details?id=com.lifeonair.postparty
+Requested 2 times
+Last requested 1692269066.0
+	
+Manager
+com.zui.filemanager/com.zui.filemanager.MainActivity
+https://play.google.com/store/apps/details?id=com.zui.filemanager
+Requested 2 times
+Last requested 1692077562.0
+	
+GoPay
+com.gojek.gopay/com.gojek.gopay.MainActivity
+https://play.google.com/store/apps/details?id=com.gojek.gopay
+Requested 2 times
+Last requested 1692345319.0
 	
 Queue
 com.app.antqueuelive/nhapt.com.antq_flutter.MainActivity
@@ -5576,12 +5588,6 @@ https://play.google.com/store/apps/details?id=com.kalab.pgnviewer
 Requested 1 times
 Last requested 1665797264.0
 	
-One
-com.dayoneapp.dayone/com.dayoneapp.dayone.main.SplashActivity
-https://play.google.com/store/apps/details?id=com.dayoneapp.dayone
-Requested 1 times
-Last requested 1668528768.0
-	
 DungeonMaker
 com.GameCoaster.DungeonMaker/com.unity3d.player.UnityPlayerActivity
 https://play.google.com/store/apps/details?id=com.GameCoaster.DungeonMaker
@@ -6080,12 +6086,6 @@ https://play.google.com/store/apps/details?id=com.ilyin.alchemy
 Requested 1 times
 Last requested 1666723516.0
 	
-Free
-com.natewren.linesfree/com.natewren.dashboard.SplashScreen
-https://play.google.com/store/apps/details?id=com.natewren.linesfree
-Requested 1 times
-Last requested 1666563365.0
-	
 Street
 com.supersolid.spark/com.unity3d.player.UnityPlayerActivity
 https://play.google.com/store/apps/details?id=com.supersolid.spark
@@ -6331,12 +6331,6 @@ com.mankido.Mankido/com.mankido.Mankido.MainActivity
 https://play.google.com/store/apps/details?id=com.mankido.Mankido
 Requested 1 times
 Last requested 1668590752.0
-	
-24pay
-com.twentyfourpay/com.twentyfourpay.screens.splashScreen.SplashScreenActivity
-https://play.google.com/store/apps/details?id=com.twentyfourpay
-Requested 1 times
-Last requested 1667685773.0
 	
 NayaPay
 com.nayapay.app/com.nayapay.app.kotlin.SplashActivity
@@ -6649,12 +6643,6 @@ id.co.bri.bricreditcard/id.co.bri.bricreditcard.view.activity.SplashActivity
 https://play.google.com/store/apps/details?id=id.co.bri.bricreditcard
 Requested 1 times
 Last requested 1669448816.0
-	
-Greggs
-com.mobile5.greggs/com.greggs.customerApp.MainActivity
-https://play.google.com/store/apps/details?id=com.mobile5.greggs
-Requested 1 times
-Last requested 1670885055.0
 	
 Journal
 com.compscieddy.fiveminutejournal/com.compscieddy.fiveminutejournal.LandingActivity
@@ -7508,12 +7496,6 @@ https://play.google.com/store/apps/details?id=com.tbig.playerprotrial
 Requested 1 times
 Last requested 1669267246.0
 	
-Portal
-com.microsoft.windowsintune.companyportal/com.microsoft.windowsintune.companyportal.views.SplashActivity
-https://play.google.com/store/apps/details?id=com.microsoft.windowsintune.companyportal
-Requested 1 times
-Last requested 1671408820.0
-	
 Burger
 com.chepri.mrbeastburger/com.zoontek.rnbootsplash.RNBootSplashActivity
 https://play.google.com/store/apps/details?id=com.chepri.mrbeastburger
@@ -7591,12 +7573,6 @@ com.larksuite.suite/com.ss.android.lark.main.app.MainActivity
 https://play.google.com/store/apps/details?id=com.larksuite.suite
 Requested 1 times
 Last requested 1669955679.0
-	
-Netmeds
-com.NetmedsMarketplace.Netmeds/com.netmedsmarketplace.netmeds.AppUriSchemeHandler
-https://play.google.com/store/apps/details?id=com.NetmedsMarketplace.Netmeds
-Requested 1 times
-Last requested 1670690323.0
 	
 Agrivi
 com.agrivi.agrivi/com.agrivi.agrivi.onboarding.opening.activity.OpeningActivity
@@ -8186,23 +8162,11 @@ https://play.google.com/store/apps/details?id=de.mdiener.rain.usa
 Requested 1 times
 Last requested 1676239602.0
 	
-EnglishScore
-com.englishscore/com.englishscore.MainActivity
-https://play.google.com/store/apps/details?id=com.englishscore
-Requested 1 times
-Last requested 1676322487.0
-	
 Test
 com.chartcross.gpstest/com.chartcross.gpstest.MainActivity
 https://play.google.com/store/apps/details?id=com.chartcross.gpstest
 Requested 1 times
 Last requested 1676125123.0
-	
-RISK
-com.hasbro.riskbigscreen/com.google.firebase.MessagingUnityPlayerActivity
-https://play.google.com/store/apps/details?id=com.hasbro.riskbigscreen
-Requested 1 times
-Last requested 1676314689.0
 	
 Niu
 io.niuapp.sv.wallet/com.bim.android.ui.splash.SplashActivity
@@ -8539,12 +8503,6 @@ com.despdev.quitzilla/com.despdev.quitzilla.activities.ActivityMain
 https://play.google.com/store/apps/details?id=com.despdev.quitzilla
 Requested 1 times
 Last requested 1677321009.0
-	
-Cleaner
-com.iclean.master.boost/com.iclean.master.boost.module.setting.SplashActivity
-https://play.google.com/store/apps/details?id=com.iclean.master.boost
-Requested 1 times
-Last requested 1677518210.0
 	
 Mojo
 video.mojo/video.mojo.pages.main.MainActivity
@@ -8912,18 +8870,6 @@ https://play.google.com/store/apps/details?id=com.unicornsoft.android.unicornpro
 Requested 1 times
 Last requested 1677805304.0
 	
-Shop
-pro.deckshop.app/pro.deckshop.app.MainActivity
-https://play.google.com/store/apps/details?id=pro.deckshop.app
-Requested 1 times
-Last requested 1677854099.0
-	
-2
-com.ULTRATEAM.ULTRAFLOW2/com.unity3d.player.UnityPlayerActivity
-https://play.google.com/store/apps/details?id=com.ULTRATEAM.ULTRAFLOW2
-Requested 1 times
-Last requested 1677801660.0
-	
 BmiCalc
 com.ei.bmicalc/com.ei.bmicalc.MainActivity
 https://play.google.com/store/apps/details?id=com.ei.bmicalc
@@ -9218,12 +9164,6 @@ https://play.google.com/store/apps/details?id=com.brimfinancial
 Requested 1 times
 Last requested 1677898857.0
 	
-NTES
-cris.icms.ntes/cris.icms.ntes.LaunchApp
-https://play.google.com/store/apps/details?id=cris.icms.ntes
-Requested 1 times
-Last requested 1677743592.0
-	
 TEPPEN
 jp.gungho.teppen/jp.gungho.util.UnityOverrideActivity
 https://play.google.com/store/apps/details?id=jp.gungho.teppen
@@ -9475,12 +9415,6 @@ pl.idreams.skyforcehd/com.unity3d.player.UnityPlayerActivity
 https://play.google.com/store/apps/details?id=pl.idreams.skyforcehd
 Requested 1 times
 Last requested 1678467391.0
-	
-Story
-com.MartianRexInc.StoneStory/com.unity3d.player.UnityPlayerActivity
-https://play.google.com/store/apps/details?id=com.MartianRexInc.StoneStory
-Requested 1 times
-Last requested 1678051621.0
 	
 NecroMerger
 com.grumpyrhinogames.necromerger/com.unity3d.player.UnityPlayerActivity
@@ -9848,12 +9782,6 @@ https://play.google.com/store/apps/details?id=at.volksbank.volksbankmobile
 Requested 1 times
 Last requested 1678267877.0
 	
-NetBenefits
-com.fidelity.wi.activity/com.fidelity.wi.activity.MainActivity
-https://play.google.com/store/apps/details?id=com.fidelity.wi.activity
-Requested 1 times
-Last requested 1677963200.0
-	
 Archer
 com.byril.stickmanarcher/com.unity3d.player.UnityPlayerActivity
 https://play.google.com/store/apps/details?id=com.byril.stickmanarcher
@@ -9919,12 +9847,6 @@ org.moire.ultrasonic/org.moire.ultrasonic.activity.NavigationActivity
 https://play.google.com/store/apps/details?id=org.moire.ultrasonic
 Requested 1 times
 Last requested 1689123366.0
-	
-Pro
-name.pilgr.appdialer.pro/name.pilgr.appdialer.AppDialer
-https://play.google.com/store/apps/details?id=name.pilgr.appdialer.pro
-Requested 1 times
-Last requested 1679027021.0
 	
 MoeMemos
 me.mudkip.moememos/me.mudkip.moememos.MainActivity
@@ -10723,12 +10645,6 @@ bearface.games.merchant/com.ansca.corona.CoronaActivity
 https://play.google.com/store/apps/details?id=bearface.games.merchant
 Requested 1 times
 Last requested 1680567257.0
-	
-Heroes
-com.gamedevltd.wwh/com.google.firebase.MessagingUnityPlayerActivity
-https://play.google.com/store/apps/details?id=com.gamedevltd.wwh
-Requested 1 times
-Last requested 1680366028.0
 	
 Cityflo
 com.cityflo.customer/com.cityflo.customer.ui.activity.SplashActivity
@@ -12398,12 +12314,6 @@ https://play.google.com/store/apps/details?id=com.MassDiGI.Banoffee
 Requested 1 times
 Last requested 1682355197.0
 	
-Stargon
-net.onecook.browser/net.onecook.browser.MainActivity
-https://play.google.com/store/apps/details?id=net.onecook.browser
-Requested 1 times
-Last requested 1682327038.0
-	
 ATSApp
 com.netribe.business.sol.ats/com.netribe.business.sol.SplashScreen
 https://play.google.com/store/apps/details?id=com.netribe.business.sol.ats
@@ -12649,12 +12559,6 @@ ua.com.compose.colorpicker.camera.image/ua.com.compose.view.main.MainActivity
 https://play.google.com/store/apps/details?id=ua.com.compose.colorpicker.camera.image
 Requested 1 times
 Last requested 1683227302.0
-	
-Fpay
-com.fif.fpay.android/com.fif.fpay.android.presentation.MainActivity
-https://play.google.com/store/apps/details?id=com.fif.fpay.android
-Requested 1 times
-Last requested 1682869864.0
 	
 WashMethod
 com.washmethod.WashMethod/com.washmethod.WashMethod.activities.LoadingActivity
@@ -13423,12 +13327,6 @@ tech.massyve.quran/com.massyve.quran.activities.SplashActivity
 https://play.google.com/store/apps/details?id=tech.massyve.quran
 Requested 1 times
 Last requested 1683762972.0
-	
-Peglin
-com.RedNexusGamesInc.Peglin/com.unity3d.player.UnityPlayerActivity
-https://play.google.com/store/apps/details?id=com.RedNexusGamesInc.Peglin
-Requested 1 times
-Last requested 1683732261.0
 	
 Drift
 com.smgstudio.thumbdrift/com.unity3d.player.UnityPlayerActivity
@@ -14858,12 +14756,6 @@ https://play.google.com/store/apps/details?id=com.mobirate.rovercraft.gplay
 Requested 1 times
 Last requested 1685928605.0
 	
-Nothingbutwallpapers
-com.dev.nothingbutwalls.app/com.dev.nothingbutwalls.app.MainActivity
-https://play.google.com/store/apps/details?id=com.dev.nothingbutwalls.app
-Requested 1 times
-Last requested 1685914068.0
-	
 FM
 fm.moon.app/com.icyarrow.haloradio.MainActivity
 https://play.google.com/store/apps/details?id=fm.moon.app
@@ -15536,12 +15428,6 @@ https://play.google.com/store/apps/details?id=org.chromium.webapk.ad986d9f47e187
 Requested 1 times
 Last requested 1687119148.0
 	
-Live
-com.pokemon.pokemontcgl/com.pokemon.pokemontcgl.UnityPlayerActivity
-https://play.google.com/store/apps/details?id=com.pokemon.pokemontcgl
-Requested 1 times
-Last requested 1686795067.0
-	
 Outlaws
 com.piratesoutlaws.fabledgame/com.android.mylibrary.MainActivity
 https://play.google.com/store/apps/details?id=com.piratesoutlaws.fabledgame
@@ -16039,12 +15925,6 @@ org.familysearch.mobile/org.familysearch.mobile.ui.activity.LauncherActivity
 https://play.google.com/store/apps/details?id=org.familysearch.mobile
 Requested 1 times
 Last requested 1687158474.0
-	
-DevInfo
-com.liuzh.deviceinfo/com.liuzh.deviceinfo.splash.SplashActivity
-https://play.google.com/store/apps/details?id=com.liuzh.deviceinfo
-Requested 1 times
-Last requested 1687165413.0
 	
 Shot
 com.globaleservice.app.consiteshot/crc649670c247f6773d0b.MainActivity
@@ -16610,12 +16490,6 @@ https://play.google.com/store/apps/details?id=com.btows.photo
 Requested 1 times
 Last requested 1688793714.0
 	
-VNeID
-com.vnid/com.vnid.MainActivity
-https://play.google.com/store/apps/details?id=com.vnid
-Requested 1 times
-Last requested 1688496665.0
-	
 Mobile
 eu.europa.ec.ecas/eu.europa.ec.ecas.MainActivity
 https://play.google.com/store/apps/details?id=eu.europa.ec.ecas
@@ -16657,12 +16531,6 @@ com.ajamalen.pokedialer/com.ajamalen.pokedialer.features.main.MainActivity
 https://play.google.com/store/apps/details?id=com.ajamalen.pokedialer
 Requested 1 times
 Last requested 1688573179.0
-	
-HOME
-com.eco.global.app/com.eco.main.activity.EcoLauncherActivity
-https://play.google.com/store/apps/details?id=com.eco.global.app
-Requested 1 times
-Last requested 1688579128.0
 	
 Parcels
 com.brightstripe.parcels/com.brightstripe.parcels.MainActivity
@@ -17180,12 +17048,6 @@ https://play.google.com/store/apps/details?id=com.MA.LAC
 Requested 1 times
 Last requested 1688992706.0
 	
-TrainingPeaks
-com.peaksware.trainingpeaks/com.peaksware.trainingpeaks.onboarding.OnBoardingActivity
-https://play.google.com/store/apps/details?id=com.peaksware.trainingpeaks
-Requested 1 times
-Last requested 1688932745.0
-	
 4
 com.unicostudio.braintest4/com.google.firebase.MessagingUnityPlayerActivity
 https://play.google.com/store/apps/details?id=com.unicostudio.braintest4
@@ -17461,12 +17323,6 @@ com.rafapps.simplenotes/com.rafapps.simplenotes.NotesListActivity
 https://play.google.com/store/apps/details?id=com.rafapps.simplenotes
 Requested 1 times
 Last requested 1689279242.0
-	
-BPI
-com.bpi.ng.app/com.bpi.ng.app.presentation.views.MainActivity
-https://play.google.com/store/apps/details?id=com.bpi.ng.app
-Requested 1 times
-Last requested 1690169228.0
 	
 Doomsday
 com.igg.android.doomsdaylastsurvivors/com.gpc.sdk.unity.USDKDemoCustomMainActivity
@@ -17870,12 +17726,6 @@ https://play.google.com/store/apps/details?id=com.sbs.ondemand.android
 Requested 1 times
 Last requested 1690929882.0
 	
-NETFLIX
-com.netflix.NGP.BloonsTDSix/com.unity3d.player.UnityPlayerActivity
-https://play.google.com/store/apps/details?id=com.netflix.NGP.BloonsTDSix
-Requested 1 times
-Last requested 1690389008.0
-	
 SpoonS
 vn.com.ggg.gpeople/com.tgs.mobile.MainActivity
 https://play.google.com/store/apps/details?id=vn.com.ggg.gpeople
@@ -18038,12 +17888,6 @@ https://play.google.com/store/apps/details?id=com.vzw.ecid
 Requested 1 times
 Last requested 1691088962.0
 	
-Lemmy
-eu.toldi.infinityforlemmy/eu.toldi.infinityforlemmy.activities.MainActivity
-https://play.google.com/store/apps/details?id=eu.toldi.infinityforlemmy
-Requested 1 times
-Last requested 1691220107.0
-	
 Qrca
 org.kde.qrca/org.qtproject.qt5.android.bindings.QtActivity
 https://play.google.com/store/apps/details?id=org.kde.qrca
@@ -18056,29 +17900,11 @@ https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp
 Requested 1 times
 Last requested 1691251147.0
 	
-Магнит
-ru.tander.magnit/ru.tander.magnit.presentation.MainActivity
-https://play.google.com/store/apps/details?id=ru.tander.magnit
-Requested 1 times
-Last requested 1690904601.0
-	
 街口支付
 com.jkos.app/com.jkos.app.LoadActivity
 https://play.google.com/store/apps/details?id=com.jkos.app
 Requested 1 times
 Last requested 1690968361.0
-	
-Sync
-io.syncapps.lemmy_sync/io.syncapps.lemmy_sync.ui.activities.HomeActivity.Default
-https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync
-Requested 1 times
-Last requested 1691077876.0
-	
-Wink
-ru.rt.video.app.mobile/ru.rt.video.app.splash.SplashActivity
-https://play.google.com/store/apps/details?id=ru.rt.video.app.mobile
-Requested 1 times
-Last requested 1690963258.0
 	
 com
 .eveningoutpost.dexdrip/com.eveningoutpost.dexdrip.Home
@@ -18362,12 +18188,6 @@ https://play.google.com/store/apps/details?id=com.sharewaste.app.production
 Requested 1 times
 Last requested 1691170221.0
 	
-PRIDE
-com.neowiz.game.idolypride.en/com.google.firebase.MessagingUnityPlayerActivity
-https://play.google.com/store/apps/details?id=com.neowiz.game.idolypride.en
-Requested 1 times
-Last requested 1691047054.0
-	
 UC
 com.presonus.qmix/com.presonus.qmix.QMix
 https://play.google.com/store/apps/details?id=com.presonus.qmix
@@ -18416,23 +18236,11 @@ https://play.google.com/store/apps/details?id=com.mobisoft.kitapyurdu
 Requested 1 times
 Last requested 1691097915.0
 	
-DominosPizza
-zena.dominos/zena.dominos.MainActivity
-https://play.google.com/store/apps/details?id=zena.dominos
-Requested 1 times
-Last requested 1691151595.0
-	
 it
 de.ka.kamedi.heat_it/de.ka.kamedi.heat_it.android.MainActivity
 https://play.google.com/store/apps/details?id=de.ka.kamedi.heat_it
 Requested 1 times
 Last requested 1691095592.0
-	
-PetSmart
-com.petsmart.consumermobile/com.pk.ui.activity.AppEntryActivity
-https://play.google.com/store/apps/details?id=com.petsmart.consumermobile
-Requested 1 times
-Last requested 1690955263.0
 	
 Arcana
 ata.urchin.witcharcana/com.google.firebase.MessagingUnityPlayerActivity
@@ -18452,18 +18260,6 @@ https://play.google.com/store/apps/details?id=com.avg.cleaner
 Requested 1 times
 Last requested 1690900041.0
 	
-LiveUAMap
-com.altwork.liveuamap/com.altwork.liveuamap.MainActivity
-https://play.google.com/store/apps/details?id=com.altwork.liveuamap
-Requested 1 times
-Last requested 1690971336.0
-	
-Buyee
-jp.buyee/jp.buyee.MainActivity
-https://play.google.com/store/apps/details?id=jp.buyee
-Requested 1 times
-Last requested 1690999766.0
-	
 e1547
 net.e1547/net.e1547.MainActivity
 https://play.google.com/store/apps/details?id=net.e1547
@@ -18476,9 +18272,669 @@ https://play.google.com/store/apps/details?id=com.uesp.mobile
 Requested 1 times
 Last requested 1690906240.0
 	
-Bonza
-air.au.com.minimega.bonza/air.au.com.minimega.bonza.AIRAppEntry
-https://play.google.com/store/apps/details?id=air.au.com.minimega.bonza
+Llega
+com.mgp.cuandoLlega/com.mgp.cuandoLlega.MainActivity
+https://play.google.com/store/apps/details?id=com.mgp.cuandoLlega
+Requested 1 times
+Last requested 1691287016.0
+	
+HR
+com.timetec.office/crc643dc5f5b828a99546.MainActivity
+https://play.google.com/store/apps/details?id=com.timetec.office
+Requested 1 times
+Last requested 1691695541.0
+	
+Board
+at.techbee.jtx/at.techbee.jtx.MainActivity2
+https://play.google.com/store/apps/details?id=at.techbee.jtx
+Requested 1 times
+Last requested 1691579411.0
+	
+CameraFileCopy
+org.cimbar.camerafilecopy/org.cimbar.camerafilecopy.MainActivity
+https://play.google.com/store/apps/details?id=org.cimbar.camerafilecopy
+Requested 1 times
+Last requested 1691446987.0
+	
+株
+jp.co.sbisec.hyperkabu2/jp.co.sbisec.sbikabu.MainActivity
+https://play.google.com/store/apps/details?id=jp.co.sbisec.hyperkabu2
+Requested 1 times
+Last requested 1691716594.0
+	
+CheckFirm
+com.illusion.checkfirm/com.illusion.checkfirm.main.MainActivity
+https://play.google.com/store/apps/details?id=com.illusion.checkfirm
+Requested 1 times
+Last requested 1691664520.0
+	
+环行旅舍
+com.bingkolo.kleins.bilibili/com.unity3d.player.UnityPlayerActivityEx
+https://play.google.com/store/apps/details?id=com.bingkolo.kleins.bilibili
+Requested 1 times
+Last requested 1691799421.0
+	
+Atom
+com.turtlebeach.atom/com.turtlebeach.atom.SplashScreen
+https://play.google.com/store/apps/details?id=com.turtlebeach.atom
+Requested 1 times
+Last requested 1691408598.0
+	
+Twitter
+org.chromium.webapk.a687728b904321974_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity
+https://play.google.com/store/apps/details?id=org.chromium.webapk.a687728b904321974_v2
+Requested 1 times
+Last requested 1691569699.0
+	
+Notasnet
+com.syscolnet.notasnet/com.syscolnet.notasnet.MainActivity
+https://play.google.com/store/apps/details?id=com.syscolnet.notasnet
+Requested 1 times
+Last requested 1691691849.0
+	
+Wallpaper
+com.bodingdev.solidcolorwallpaperoffline/com.bodingdev.solidcolorwallpaperoffline.activity.SplashActivity
+https://play.google.com/store/apps/details?id=com.bodingdev.solidcolorwallpaperoffline
+Requested 1 times
+Last requested 1691496069.0
+	
+Collector
+info.zamojski.soft.towercollector/info.zamojski.soft.towercollector.SplashActivity
+https://play.google.com/store/apps/details?id=info.zamojski.soft.towercollector
+Requested 1 times
+Last requested 1691575142.0
+	
+GotoBrowser
+com.antest1.gotobrowser/com.antest1.gotobrowser.Activity.EntranceActivity
+https://play.google.com/store/apps/details?id=com.antest1.gotobrowser
+Requested 1 times
+Last requested 1691596617.0
+	
+Notes
+com.jsvmsoft.stickynotes/com.jsvmsoft.stickynotes.presentation.launcher.LauncherActivity
+https://play.google.com/store/apps/details?id=com.jsvmsoft.stickynotes
+Requested 1 times
+Last requested 1691782488.0
+	
+Atlas
+com.visiblebody.atlas/com.visiblebody.atlas.AtlasPerpetualPlayerActivity
+https://play.google.com/store/apps/details?id=com.visiblebody.atlas
+Requested 1 times
+Last requested 1691563883.0
+	
+Dayforce
+com.dayforce.mobile/com.dayforce.mobile.ui_login.SSOLoginHandlerActivity
+https://play.google.com/store/apps/details?id=com.dayforce.mobile
+Requested 1 times
+Last requested 1691566547.0
+	
+Basic
+org.fdroid.basic/org.fdroid.fdroid.views.main.MainActivity
+https://play.google.com/store/apps/details?id=org.fdroid.basic
+Requested 1 times
+Last requested 1691355892.0
+	
+SJ
+se.sj.android/se.sj.android.activity.SjNavigationDrawer
+https://play.google.com/store/apps/details?id=se.sj.android
+Requested 1 times
+Last requested 1691580292.0
+	
+Inflow
+inflow.adhd.productivity/inflow.adhd.productivity.MainActivity
+https://play.google.com/store/apps/details?id=inflow.adhd.productivity
+Requested 1 times
+Last requested 1691309123.0
+	
+أخبار
+com.sony.nfx.app.sfrc/com.sony.nfx.app.sfrc.npam.InitialActivity
+https://play.google.com/store/apps/details?id=com.sony.nfx.app.sfrc
+Requested 1 times
+Last requested 1691358617.0
+	
+Jigsawscapes
+jigsaw.puzzle.game.banana/com.meevii.game.mobile.fun.SplashActivity
+https://play.google.com/store/apps/details?id=jigsaw.puzzle.game.banana
+Requested 1 times
+Last requested 1691695649.0
+	
+Pathe
+com.brocelia.cgp/com.cinemaspathegaumont.cgp.ui.activity.SplashActivity
+https://play.google.com/store/apps/details?id=com.brocelia.cgp
+Requested 1 times
+Last requested 1691493598.0
+	
+studier
+no.uio.mobileapps.minestudier/no.uio.mobileapps.minestudier.MainActivity
+https://play.google.com/store/apps/details?id=no.uio.mobileapps.minestudier
+Requested 1 times
+Last requested 1691850971.0
+	
+9Futball
+com.fnapp.besoccer.futball/com.fnapp.besoccer.futbol.SplashActivity
+https://play.google.com/store/apps/details?id=com.fnapp.besoccer.futball
+Requested 1 times
+Last requested 1691756566.0
+	
+Anytype
+io.anytype.app/com.anytypeio.anytype.ui.main.MainActivity
+https://play.google.com/store/apps/details?id=io.anytype.app
+Requested 1 times
+Last requested 1691527584.0
+	
+Mobile
+com.pixelbypixel.mosmobile/com.epicgames.unreal.SplashActivity
+https://play.google.com/store/apps/details?id=com.pixelbypixel.mosmobile
+Requested 1 times
+Last requested 1691792913.0
+	
+PEC
+it.aruba.pec.mobile/it.aruba.mobile.uxlib.loginUx.LoginActivity
+https://play.google.com/store/apps/details?id=it.aruba.pec.mobile
+Requested 1 times
+Last requested 1691330792.0
+	
+RYCEAM
+com.MusitatStudio.RYCEAMGlobal/com.unity3d.player.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.MusitatStudio.RYCEAMGlobal
+Requested 1 times
+Last requested 1691597677.0
+	
+majica
+com.donki.majica/com.donki.majica.main.MainActivity
+https://play.google.com/store/apps/details?id=com.donki.majica
+Requested 1 times
+Last requested 1691605642.0
+	
+календар
+com.monastery.eleusa.orhtodoxcalendarmacedonia/com.monastery.eleusa.orhtodoxcalendarmacedonia.SplashScreen
+https://play.google.com/store/apps/details?id=com.monastery.eleusa.orhtodoxcalendarmacedonia
+Requested 1 times
+Last requested 1691573203.0
+	
+Creative
+com.creative.apps.creative/com.creative.apps.creative.SplashActivity
+https://play.google.com/store/apps/details?id=com.creative.apps.creative
+Requested 1 times
+Last requested 1691459226.0
+	
+Open
+it.giornaleonline.open/it.giornaleonline.open.MainActivity
+https://play.google.com/store/apps/details?id=it.giornaleonline.open
+Requested 1 times
+Last requested 1691781830.0
+	
+Business
+in.amazon.mShop.android.business.shopping/com.amazon.mShop.home.HomeActivity
+https://play.google.com/store/apps/details?id=in.amazon.mShop.android.business.shopping
+Requested 1 times
+Last requested 1691502503.0
+	
+Fare
+com.justride.calgary/io.ionic.starter.MainActivity
+https://play.google.com/store/apps/details?id=com.justride.calgary
+Requested 1 times
+Last requested 1691405996.0
+	
+Mobil
+tr.com.sekerbilisim.mbank/com.sekerbilisim.mbank.ui.authentication.AuthenticationActivity
+https://play.google.com/store/apps/details?id=tr.com.sekerbilisim.mbank
+Requested 1 times
+Last requested 1691527250.0
+	
+AI
+com.feravolt.fdeai/com.feravolt.fdeai.ui.MainActivity
+https://play.google.com/store/apps/details?id=com.feravolt.fdeai
+Requested 1 times
+Last requested 1691415782.0
+	
+6
+com.primatelabs.geekbench6/com.primatelabs.geekbench.HomeActivity
+https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6
+Requested 1 times
+Last requested 1691666606.0
+	
+Cami
+com.zhiyun.cama/com.zhiyun.cama.splash.SplashActivity
+https://play.google.com/store/apps/details?id=com.zhiyun.cama
+Requested 1 times
+Last requested 1691309713.0
+	
+YoWindow
+yo.app.free/yo.activity.MainActivity
+https://play.google.com/store/apps/details?id=yo.app.free
+Requested 1 times
+Last requested 1691311910.0
+	
+lu
+de.hafas.android.cdt/de.hafas.main.HafasApp
+https://play.google.com/store/apps/details?id=de.hafas.android.cdt
+Requested 1 times
+Last requested 1691614710.0
+	
+Network
+fr.anidn/fr.anidn.MainActivity
+https://play.google.com/store/apps/details?id=fr.anidn
+Requested 1 times
+Last requested 1691678840.0
+	
+Greenwheels
+com.greenwheels/com.greenwheels.MainActivity
+https://play.google.com/store/apps/details?id=com.greenwheels
+Requested 1 times
+Last requested 1691566199.0
+	
+Tonight
+com.vitotechnology.sky.tonight.map.star.walk/com.google.firebase.MessagingUnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.vitotechnology.sky.tonight.map.star.walk
+Requested 1 times
+Last requested 1691611261.0
+	
+Radar
+weatherradar.livemaps.free/weatherradar.livemaps.free.activities.Splash
+https://play.google.com/store/apps/details?id=weatherradar.livemaps.free
+Requested 1 times
+Last requested 1691517123.0
+	
+Marksman
+com.battlecreek.americanmarksman/com.unity3d.player.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.battlecreek.americanmarksman
+Requested 1 times
+Last requested 1691359770.0
+	
+BETA
+com.ea.gp.fifamobilebeta/com.ea.gp.fifamobilebeta.FifaMainActivity
+https://play.google.com/store/apps/details?id=com.ea.gp.fifamobilebeta
+Requested 1 times
+Last requested 1691859606.0
+	
+Star
+com.ParallelSpace.Cerberus/com.google.firebase.MessagingUnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.ParallelSpace.Cerberus
+Requested 1 times
+Last requested 1691800723.0
+	
+Mobile
+com.sc.mobilebanking.bd/com.sc.retail.scmobile.MainActivity
+https://play.google.com/store/apps/details?id=com.sc.mobilebanking.bd
+Requested 1 times
+Last requested 1691514956.0
+	
+Bank
+com.bancorpsouth.android/com.orcc.MainActivity
+https://play.google.com/store/apps/details?id=com.bancorpsouth.android
+Requested 1 times
+Last requested 1691620393.0
+	
+3D
+blockpuzzle.wood.legend.jewel/com.unity3d.player.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=blockpuzzle.wood.legend.jewel
+Requested 1 times
+Last requested 1691527578.0
+	
+ZTELink
+com.zte.linkpro/com.zte.linkpro.ui.startup.StartupActivity
+https://play.google.com/store/apps/details?id=com.zte.linkpro
+Requested 1 times
+Last requested 1691614095.0
+	
+BookFusion
+com.bookfusion.android.reader/com.bookfusion.android.reader.activities.SplashActivity_
+https://play.google.com/store/apps/details?id=com.bookfusion.android.reader
+Requested 1 times
+Last requested 1691572199.0
+	
+Hippo
+com.wordhippo.app/com.wordhippo.app.MainActivity
+https://play.google.com/store/apps/details?id=com.wordhippo.app
+Requested 1 times
+Last requested 1691451947.0
+	
+AI
+com.protectstar.antivirus/com.protectstar.antivirus.activity.ActivityFirstlaunch
+https://play.google.com/store/apps/details?id=com.protectstar.antivirus
+Requested 1 times
+Last requested 1691839305.0
+	
+Skit
+com.pavelrekun.skit.premium/com.pavelrekun.skit.base.BaseActivity
+https://play.google.com/store/apps/details?id=com.pavelrekun.skit.premium
+Requested 1 times
+Last requested 1691687554.0
+	
+學術字典
+com.cucugi.academicdict/com.cucugi.academicdict.MainActivity
+https://play.google.com/store/apps/details?id=com.cucugi.academicdict
+Requested 1 times
+Last requested 1691320459.0
+	
+Move
+com.AttackMove.JetAttackMove/com.unity3d.player.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.AttackMove.JetAttackMove
+Requested 1 times
+Last requested 1691573784.0
+	
+PublixPro
+com.publix.publixpro/crc64483d12ecde9a0a4a.MainActivity
+https://play.google.com/store/apps/details?id=com.publix.publixpro
+Requested 1 times
+Last requested 1691602982.0
+	
+IncluSeñas
+app.aresan.miguel.inclusenas/app.aresan.miguel.inclusenas.presentation.splash.SplashActivity
+https://play.google.com/store/apps/details?id=app.aresan.miguel.inclusenas
+Requested 1 times
+Last requested 1691506928.0
+	
+X
+com.twitter.androie/com.twitter.androie.StartActivity
+https://play.google.com/store/apps/details?id=com.twitter.androie
+Requested 1 times
+Last requested 1692313285.0
+	
+RO
+com.mediately.drugs.ro/com.mediately.drugs.activities.MainActivity
+https://play.google.com/store/apps/details?id=com.mediately.drugs.ro
+Requested 1 times
+Last requested 1691945082.0
+	
+Skool
+com.skool.skoolcommunities/com.skool.skoolcommunities.ui.activities.MainActivity
+https://play.google.com/store/apps/details?id=com.skool.skoolcommunities
+Requested 1 times
+Last requested 1692446857.0
+	
+ComiCat
+meanlabs.comicat/meanlabs.comicreader.Catalog
+https://play.google.com/store/apps/details?id=meanlabs.comicat
+Requested 1 times
+Last requested 1692424659.0
+	
+Berk
+com.ludia.dragons/com.ludia.engine.application.SplashScreenActivity
+https://play.google.com/store/apps/details?id=com.ludia.dragons
+Requested 1 times
+Last requested 1692199056.0
+	
+Stargazer
+com.voc.honkai_stargazer_gp/com.voc.honkai_stargazer.ui.RootPage
+https://play.google.com/store/apps/details?id=com.voc.honkai_stargazer_gp
+Requested 1 times
+Last requested 1692473466.0
+	
+Tasks
+com.tasks.android/com.tasks.android.activities.MainActivity
+https://play.google.com/store/apps/details?id=com.tasks.android
+Requested 1 times
+Last requested 1692030800.0
+	
+Móvil
+bo.com.bmsc.bancamovil/bo.com.bmsc.bancamovil.RetailBanking300
+https://play.google.com/store/apps/details?id=bo.com.bmsc.bancamovil
+Requested 1 times
+Last requested 1692100127.0
+	
+Zerion
+io.zerion.android/io.zerion.android.ui.main.MainActivity
+https://play.google.com/store/apps/details?id=io.zerion.android
+Requested 1 times
+Last requested 1692108969.0
+	
+PenFed
+org.penfed.mobile.banking/com.penfed.mobile.MainActivity
+https://play.google.com/store/apps/details?id=org.penfed.mobile.banking
+Requested 1 times
+Last requested 1692096798.0
+	
+Monoxer
+com.monoxer/com.monoxer.view.main.MainActivity
+https://play.google.com/store/apps/details?id=com.monoxer
+Requested 1 times
+Last requested 1691964278.0
+	
+Premium
+eu.sisik.hackendebug.full/eu.sisik.hackendebug.SplashActivity
+https://play.google.com/store/apps/details?id=eu.sisik.hackendebug.full
+Requested 1 times
+Last requested 1691973460.0
+	
+Linxo
+com.linxo.androlinxo/com.linxo.androlinxo.featurebase.ui.demo.splash.SplashActivity
+https://play.google.com/store/apps/details?id=com.linxo.androlinxo
+Requested 1 times
+Last requested 1692101503.0
+	
+Golf
+com.shallotgames.coffeegolf/com.unity3d.player.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.shallotgames.coffeegolf
+Requested 1 times
+Last requested 1692119009.0
+	
+Canada
+com.petrocanada.my_petro_canada/suncor.com.android.ui.SplashActivity
+https://play.google.com/store/apps/details?id=com.petrocanada.my_petro_canada
+Requested 1 times
+Last requested 1691845601.0
+	
+Math
+math.puzzle.games.crossmath.number.puzzles.free/com.guru.math_collections.MainActivity
+https://play.google.com/store/apps/details?id=math.puzzle.games.crossmath.number.puzzles.free
+Requested 1 times
+Last requested 1692269461.0
+	
+Connect
+com.conduent.careconnect.parent.ok/com.conduent.ecc.presentation.modules.SplashActivity
+https://play.google.com/store/apps/details?id=com.conduent.careconnect.parent.ok
+Requested 1 times
+Last requested 1692052383.0
+	
+KWGT
+applereborn.rad.kwgt/applereborn.rad.kwgt.MainActivity
+https://play.google.com/store/apps/details?id=applereborn.rad.kwgt
+Requested 1 times
+Last requested 1692139558.0
+	
+Companion
+com.SoftwareNotion.BreathCompanion/com.SoftwareNotion.BreathCompanion.SplashScreen
+https://play.google.com/store/apps/details?id=com.SoftwareNotion.BreathCompanion
+Requested 1 times
+Last requested 1692381389.0
+	
+Unsplash
+org.chromium.webapk.ad028895249ab63e3_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity
+https://play.google.com/store/apps/details?id=org.chromium.webapk.ad028895249ab63e3_v2
+Requested 1 times
+Last requested 1692488297.0
+	
+Camera
+arn.android.gcam/com.android.camera.CameraLauncher
+https://play.google.com/store/apps/details?id=arn.android.gcam
+Requested 1 times
+Last requested 1692398166.0
+	
+Rider
+com.skgames.trafficrider/com.unity3d.player.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.skgames.trafficrider
+Requested 1 times
+Last requested 1691977064.0
+	
+3
+com.zynga.farmville3/com.appboy.unity.AppboyUnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.zynga.farmville3
+Requested 1 times
+Last requested 1691953785.0
+	
+Music
+com.amientertainment.AMISmartBar/amismartbar.features.choose_venue.activities.ChooseVenueActivity
+https://play.google.com/store/apps/details?id=com.amientertainment.AMISmartBar
+Requested 1 times
+Last requested 1692008535.0
+	
+ヘブバン
+com.heavenburnsred/com.unity3d.player.UnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.heavenburnsred
+Requested 1 times
+Last requested 1692308081.0
+	
+Journey
+com.farlightgames.igame.gp/com.farlightgames.igame.SplashActivity
+https://play.google.com/store/apps/details?id=com.farlightgames.igame.gp
+Requested 1 times
+Last requested 1692286822.0
+	
+Blade
+com.kylebarrett.UltraBlade/com.kylebarrett.UltraBlade.RunnerActivity
+https://play.google.com/store/apps/details?id=com.kylebarrett.UltraBlade
+Requested 1 times
+Last requested 1691959553.0
+	
+XMEye
+com.mobile.myeye/com.mobile.myeye.activity.welcome.view.WelcomeActivity
+https://play.google.com/store/apps/details?id=com.mobile.myeye
+Requested 1 times
+Last requested 1692116379.0
+	
+Arctius
+com.nick.delirium.arctius/com.nick.delirium.arctius.MainActivity
+https://play.google.com/store/apps/details?id=com.nick.delirium.arctius
+Requested 1 times
+Last requested 1692445029.0
+	
+AlarmDroid
+com.splunchy.android.alarmclock/com.splunchy.android.alarmclock.AlarmsActivity
+https://play.google.com/store/apps/details?id=com.splunchy.android.alarmclock
+Requested 1 times
+Last requested 1692437438.0
+	
+Manual
+com.rockstargames.gtavmanual/com.rockstargames.gtavmanual.GTAVManual
+https://play.google.com/store/apps/details?id=com.rockstargames.gtavmanual
+Requested 1 times
+Last requested 1692466760.0
+	
+Mobile
+nz.govt.at.atmobile/nz.govt.at.atmobile.MainActivity
+https://play.google.com/store/apps/details?id=nz.govt.at.atmobile
+Requested 1 times
+Last requested 1692149319.0
+	
+Pegaso
+it.pegaso.multiversity.app/com.tns.NativeScriptActivity
+https://play.google.com/store/apps/details?id=it.pegaso.multiversity.app
+Requested 1 times
+Last requested 1691867639.0
+	
+Nordost
+com.famila.nordost/crc6402b01f4e8a4dbf7c.SplashScreenActivity
+https://play.google.com/store/apps/details?id=com.famila.nordost
+Requested 1 times
+Last requested 1692060222.0
+	
+TV
+com.vodafone.vtv.pt/com.witsoftware.vodafonetv.launch.LaunchActivity
+https://play.google.com/store/apps/details?id=com.vodafone.vtv.pt
+Requested 1 times
+Last requested 1692277846.0
+	
+XFolder
+files.fileexplorer.filemanager/filemanger.manager.iostudio.manager.SplashActivity
+https://play.google.com/store/apps/details?id=files.fileexplorer.filemanager
+Requested 1 times
+Last requested 1691924357.0
+	
+TBM
+com.infotbm.tbm/com.infotbm.tbm.MainActivity
+https://play.google.com/store/apps/details?id=com.infotbm.tbm
+Requested 1 times
+Last requested 1692224161.0
+	
+Financial
+com.bankatfirst.grip/com.banno.grip.startup.StartupActivity
+https://play.google.com/store/apps/details?id=com.bankatfirst.grip
+Requested 1 times
+Last requested 1691874457.0
+	
+блокнот
+com.voicenotebook.voicenotebook/com.voicenotebook.voicenotebook.MainActivity
+https://play.google.com/store/apps/details?id=com.voicenotebook.voicenotebook
+Requested 1 times
+Last requested 1692047857.0
+	
+EECU
+com.ifs.banking.fiid5039/com.banking.bankinglibrary.activities.SplashActivity
+https://play.google.com/store/apps/details?id=com.ifs.banking.fiid5039
+Requested 1 times
+Last requested 1691999741.0
+	
+Sthlm
+com.nobina.resistockholm.resistockholm/com.nobina.resistockholm.resistockholm.feature.mainscreen.MainActivity
+https://play.google.com/store/apps/details?id=com.nobina.resistockholm.resistockholm
+Requested 1 times
+Last requested 1692200695.0
+	
+AirGuard
+de.seemoo.at_tracking_detection.release/de.seemoo.at_tracking_detection.ui.MainActivity
+https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release
+Requested 1 times
+Last requested 1692223848.0
+	
+HelloRide
+com.hellobike.anole/com.hellobike.anole.FCMEmptyActivity
+https://play.google.com/store/apps/details?id=com.hellobike.anole
+Requested 1 times
+Last requested 1692416052.0
+	
+Wallet
+com.kr.iotrust.dcent.wallet/com.iotrust.dcent.wallet.ui.activity.SplashActivity
+https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet
+Requested 1 times
+Last requested 1692353076.0
+	
+Kolay
+com.aktifbank.nkolay/com.aktifbank.nkolay.feature.core.activity.MainActivity
+https://play.google.com/store/apps/details?id=com.aktifbank.nkolay
+Requested 1 times
+Last requested 1692037415.0
+	
+Airways
+com.ba.mobile/com.ba.mobile.splash.SplashActivity
+https://play.google.com/store/apps/details?id=com.ba.mobile
+Requested 1 times
+Last requested 1692176214.0
+	
+Lionel
+com.readyeducation.collegelionelgroulx/com.ready.controller.mainactivity.MainActivity
+https://play.google.com/store/apps/details?id=com.readyeducation.collegelionelgroulx
+Requested 1 times
+Last requested 1692451148.0
+	
+MoveInSync
+com.moveinsync.ets/com.moveinsync.ets.launch.LaunchActivity
+https://play.google.com/store/apps/details?id=com.moveinsync.ets
+Requested 1 times
+Last requested 1692223388.0
+	
+Farm
+com.HyperBeardGames.MyDearFarm/com.google.firebase.MessagingUnityPlayerActivity
+https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm
+Requested 1 times
+Last requested 1692438172.0
+	
+Goodnotes
+com.goodnotes.android.app/com.goodnotes.android.app.twa.LauncherActivity
+https://play.google.com/store/apps/details?id=com.goodnotes.android.app
 Requested 0 times
-Last requested 1690849917.0
+Last requested 1692214871.0
+	
+EDP
+wit.edp.edpmobile/wit.edp.edpmobile.MainActivity
+https://play.google.com/store/apps/details?id=wit.edp.edpmobile
+Requested 0 times
+Last requested 1692112045.0
+	
+LumaFusion
+com.luma_touch.lumafusion/com.luma_touch.lumafusion.sub.SubStoreActivity
+https://play.google.com/store/apps/details?id=com.luma_touch.lumafusion
+Requested -1 times
+Last requested 1692154470.0
 	
